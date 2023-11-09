@@ -37,6 +37,9 @@ int main() {
             result = num1 / num2;
             std::cout << "Result: " << result << std::endl;
             break;
+        default:
+            std::cout << "Invalid operation" << std::endl;
+            break;
     }
 
 
