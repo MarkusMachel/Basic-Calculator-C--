@@ -1,0 +1,1 @@
+Basic calculator terminal app to get the gist of language features.
